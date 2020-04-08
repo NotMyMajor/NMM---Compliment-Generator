@@ -22,7 +22,7 @@ Generate as many compliments in different formats as you can stomach!
 ## If you use my code to do something fun or cool, share it with me! Also, credit is nice to have too.
 ## Enjoy!
 
-Find NotMyMajor on:
+## Find NotMyMajor on:
 
 YouTube: https://www.youtube.com/channel/UC3AAzOir9-2zWmsJFtfxhcw
 
