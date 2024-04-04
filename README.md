@@ -1,3 +1,5 @@
+### Things I did when I was young, bored, and new to programming. Archived here for nostalgia's sake.
+
 # NMM---Compliment-Generator
 Generate as many compliments in different formats as you can stomach!
 
@@ -21,11 +23,3 @@ Generate as many compliments in different formats as you can stomach!
 
 ## If you use my code to do something fun or cool, share it with me! Also, credit is nice to have too.
 ## Enjoy!
-
-## Find NotMyMajor on:
-
-YouTube: https://www.youtube.com/channel/UC3AAzOir9-2zWmsJFtfxhcw
-
-Twitch: https://www.twitch.tv/notmymajor
-
-GitHub: https://github.com/NotMyMajor
